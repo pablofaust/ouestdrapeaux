@@ -8,7 +8,7 @@ body{
 
 /* Menu */
 
-/*.menu {
+.menu {
 	position: fixed;
 	background-color: #fff;
 	height: 20%;
@@ -21,7 +21,7 @@ body{
 .menu img {
 	height: 100%;
 	width: 70%;
-}*/
+}
 
 /* Corps */
 
