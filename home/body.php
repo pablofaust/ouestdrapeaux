@@ -15,6 +15,7 @@
 	 </div>
 
 	 <div class="red-section">
-	 	 <button type="button" class="btn" href="#"><h4>Demandez un devis</h4></button>
+	 	 <h4>Demandez un devis</h4>
+	 	 <h5>Nous vous répondrons au plus vite !</h5>
 	 </div>
 </div>

@@ -83,18 +83,20 @@ body{
 	height: 113px;
 	background-color: #EF5350;
 	text-align: center;
-	padding-top: 10%;
+	padding-top: 7%;
 }
 
-.red-section .btn {
-	border: solid 2px #fff;
-	background-color: #EF5350;
+.red-section h4 {
+	font-size: 18px;
 	color: #fff;
 	font-family: "Montserrat";
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 
-.red-section h4 {
-	font-size: 16px;
+.red-section h5 {
+	font-size: 14px;
+	color: #fff;
+	font-family: "Montserrat";
+	letter-spacing: 1px;
 }
