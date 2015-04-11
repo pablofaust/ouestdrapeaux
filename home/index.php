@@ -4,8 +4,7 @@
 <body>
 <?php include $route.'/assets/menu.php' ?>
 
-<?php include $route.'/home/slider.php' ?>
-<?php include $route.'/home/description.php' ?>
+<?php include $route.'/home/body.php' ?>
 
 </body>
 <?php include $route.'/assets/footer.php' ?>
