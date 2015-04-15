@@ -169,8 +169,11 @@ body {
 	margin-bottom: 15px;
 }
 
+/* Version tablette verticale */
 
 @media (min-width: 768px) {
+
+/* Menu */
 
 .menu .column-1 {
 	text-align: left;
@@ -212,6 +215,16 @@ body {
 	font-family: "Montserrat";
 	font-size: 17px;
 	color: rgba(0, 0, 0, 0.84);
+}
+
+/* Section bleue */
+
+.wrapper-1 {
+	height: 110px;
+}
+
+.blue-section {
+	margin-top: -14px;
 }
 
 }
