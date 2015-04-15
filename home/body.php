@@ -2,7 +2,8 @@
 
 	<div class="wrapper-1">
 		 <div class="blue-section">
-		 	<h1>Drapeaux, pavillons, mâts<br>Articles pour mairies et collectivités</h1>
+		 	<h1 class="hidden-sm">Drapeaux, pavillons, mâts<br>Articles pour mairies et collectivités</h1>
+		 	<h1>Nouveaux produits</h1>
 		 </div>
 	</div>
 

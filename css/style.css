@@ -251,4 +251,15 @@ body {
 	margin-top: -14px;
 }
 
+.blue-section h1 {
+	font-family: "Montserrat";
+	text-transform: uppercase;
+	text-align: left;
+	border-bottom: solid 1px #fff;
+	width: 206px;
+	padding-bottom: 10px;
+	margin-top: 25px;
+	margin-left: 35px;
+}
+
 }
