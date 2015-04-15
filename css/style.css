@@ -201,8 +201,9 @@ body {
 	left: inherit;
 	border: none;
 	border-radius: 0;
-	margin-top: 34px;
-	margin-left: -673px;
+	margin-top: 20px;
+	margin-left: -676px;
+	-webkit-transform: rotate(-2deg);
 }
 
 .dropdown ul li {
@@ -210,13 +211,23 @@ body {
 }
 
 .dropdown ul li a {
-	padding: 0px 20px 10px 20px;
+	padding: 0px 20px 0px 20px;
 	line-height: 1;
 	font-family: "Montserrat";
 	font-size: 17px;
 	color: rgba(0, 0, 0, 0.84);
+	-webkit-transform: rotate(2deg);
 }
 
+.dropdown ul li:nth-child(3) {
+	padding-top: 17px;
+}
+
+.dropdown ul li:last-child {
+	padding-bottom: 23px;
+}
+
+*/
 /* Section bleue */
 
 .wrapper-1 {
