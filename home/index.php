@@ -8,4 +8,3 @@
 <?php include $route.'/home/form.php' ?>
 
 </body>
-<?php include $route.'/assets/footer.php' ?>

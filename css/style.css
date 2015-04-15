@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,300,100);
 
-/* Parte de CSS que se aplica a toda la página */
+/* Pour que ça ne déborde pas sur les côtés */
 
 body {
 	overflow-x: hidden;
@@ -22,6 +22,8 @@ body {
 	height: 127px;
 	overflow-x: hidden;
 }
+
+/* Version mobile */
 
 /* Menu */
 
@@ -165,4 +167,34 @@ body {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin-bottom: 15px;
+}
+
+
+@media (min-width: 768px) {
+
+.menu .column-1 {
+	text-align: left;
+}
+
+.menu .column-1 img {
+	margin-left: 5%;
+}
+
+.menu .column-2 {
+	text-align: right;
+}
+
+.dropdown {
+	margin-right: 7%;
+	margin-top: 4%;
+}
+
+.menu .btn-default {
+	border: solid 1px #EF5350;
+}
+
+.dropdown .fa-bars {
+	color: #EF5350;
+}
+
 }
