@@ -207,7 +207,6 @@ body {
 	color: #fff;
 }
 
-
 .dropdown ul {
 	left: inherit;
 	border: none;
@@ -354,3 +353,34 @@ body {
 }
 
 }
+
+/* Version tablette horizontale */
+
+@media (min-width: 992px) {
+
+.menu-md {
+	list-style: none;
+}
+
+.menu-md img {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.menu-md h2 {
+	font-family: "Montserrat";
+	font-size: 15px;
+	text-align: center;
+}
+
+.menu .column-3 {
+	margin-left: -3%;
+}
+
+.menu .column-1, .menu .column-3 {
+	margin-top: 0.5%;
+}
+
+}
+
