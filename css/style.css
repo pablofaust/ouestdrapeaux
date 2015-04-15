@@ -197,6 +197,17 @@ body {
 	color: #EF5350;
 }
 
+.menu .column-2 .btn:focus {
+	border: solid 1px #EF5350;
+	background-color: #EF5350;
+	outline: none;
+}
+
+.menu .column-2 .btn:focus .fa-bars {
+	color: #fff;
+}
+
+
 .dropdown ul {
 	left: inherit;
 	border: none;
