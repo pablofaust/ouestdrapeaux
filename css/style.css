@@ -180,21 +180,38 @@ body {
 	margin-left: 5%;
 }
 
-.menu .column-2 {
-	text-align: right;
-}
-
 .dropdown {
-	margin-right: 7%;
+	float: right;
 	margin-top: 4%;
+	margin-right: 5%;
 }
 
-.menu .btn-default {
+.menu .column-2 .btn {
 	border: solid 1px #EF5350;
 }
 
 .dropdown .fa-bars {
 	color: #EF5350;
+}
+
+.dropdown ul {
+	left: inherit;
+	border: none;
+	border-radius: 0;
+	margin-top: 34px;
+	margin-left: -673px;
+}
+
+.dropdown ul li {
+	display: table-cell;
+}
+
+.dropdown ul li a {
+	padding: 0px 20px 10px 20px;
+	line-height: 1;
+	font-family: "Montserrat";
+	font-size: 17px;
+	color: rgba(0, 0, 0, 0.84);
 }
 
 }
