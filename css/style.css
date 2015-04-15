@@ -204,10 +204,12 @@ body {
 	margin-top: 20px;
 	margin-left: -676px;
 	-webkit-transform: rotate(-2deg);
+	box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.3);
 }
 
 .dropdown ul li {
 	display: table-cell;
+	-webkit-transform: rotate(2deg);
 }
 
 .dropdown ul li a {
@@ -216,7 +218,6 @@ body {
 	font-family: "Montserrat";
 	font-size: 17px;
 	color: rgba(0, 0, 0, 0.84);
-	-webkit-transform: rotate(2deg);
 }
 
 .dropdown ul li:nth-child(3) {
