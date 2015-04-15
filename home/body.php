@@ -3,7 +3,7 @@
 	<div class="wrapper-1">
 		 <div class="blue-section">
 		 	<h1 class="hidden-sm">Drapeaux, pavillons, mâts<br>Articles pour mairies et collectivités</h1>
-		 	<h1>Nouveaux produits</h1>
+		 	<h1 class="hidden-xs">Nouveaux produits</h1>
 		 </div>
 	</div>
 
@@ -18,7 +18,7 @@
 		 		FAX : 2 31 92 99 22</h3>
 		 </div>
 
-		<div class="row slider">
+		<div class="row slider hidden-xs">
 			<div class="col-sm-4 column-1">
 				<div class="img">
 					<img src="home/img/produit1.jpg" />

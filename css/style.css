@@ -304,4 +304,24 @@ body {
 	vertical-align: middle;	
 }
 
+/* Formulaire */
+
+.form .column-1 {
+	padding-top: 20px;
+}
+
+.form .col-sm-3 {
+	text-align: left;
+	padding-bottom: 15px;
+}
+
+.form label {
+	display: inline-block;
+	margin-top: 0;
+}
+
+.form input {
+	display: inline-block;
+}
+
 }
