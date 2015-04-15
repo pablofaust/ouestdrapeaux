@@ -1,4 +1,4 @@
-<div class="container-fluid form">
+<div class="container-fluid form hidden-xs">
 
   <div class="col-sm-7 column-1">
     <form action="home/post_contact.php" method="POST">
@@ -33,7 +33,16 @@
     </form>
   </div>
 
-  <div class="col-sm-5">
+  <div class="col-sm-5 column-2">
+     <div class="contact hidden-xs">
+      <h2>Contact</h2>
+      <h3><strong>COUTARD PAVOISEMENT</strong><br>
+        ROUTE DE SAINT-LO<br>
+        14400 BAYEUX<br>
+        <a href="mailto:coutard.pavoisement@hotmail.fr">coutard.pavoisement@hotmail.fr</a><br>
+        TEL : 2 31 92 85 24<br>
+        FAX : 2 31 92 99 22</h3>
+     </div>
   </div>
 
 </div>
