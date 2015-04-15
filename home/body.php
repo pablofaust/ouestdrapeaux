@@ -40,9 +40,9 @@
 
 	<div class="wrapper-3">
 		 <div class="red-section">
-		 	<button type="button" class="btn">
+		 	<a href="#form"><button type="button" class="btn">
 		 		<h4>Demandez un devis</h4>
-		 	</button>
+		 	</button></a>
 		 	 	<h5>Nous vous répondrons au plus vite !</h5>
 		 </div>
 	</div>

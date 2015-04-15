@@ -1,4 +1,4 @@
-<div class="container-fluid form hidden-xs">
+<div class="container-fluid form hidden-xs" id="form">
 
   <div class="col-sm-7 column-1">
     <form action="home/post_contact.php" method="POST">
