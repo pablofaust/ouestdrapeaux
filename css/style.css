@@ -406,5 +406,28 @@ body {
 	padding-right: 3%;
 }
 
+/* Section rouge */
+
+.wrapper-3 {
+	height: 140px;
 }
+
+.red-section {
+	margin-top: 8px;
+	height: 123px;
+}
+
+.red-section button {
+	-webkit-transform: rotate(-1deg);
+	border: solid 2px #fff;
+	background-color: #EF5350;
+	box-shadow: 0px 2px 2px 0px #BD403E;
+}
+
+.red-section h4 {
+	-webkit-transform: rotate(0deg);
+}
+
+}
+
 
