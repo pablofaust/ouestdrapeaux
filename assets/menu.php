@@ -21,7 +21,7 @@
 			</div>
 		</div>
 
-		<div class="col-md-4 column-1">
+		<div class="col-md-4 column-1 hidden-xs hidden-sm">
 			<ul class="menu-md">
 				<div class="row">
 					<div class="col-md-6 lien-1">
@@ -33,10 +33,10 @@
 				</div>
 			</ul>
 		</div>
-		<div class="col-md-4 column-2">
+		<div class="col-md-4 column-2 hidden-xs hidden-sm">
 			<img src="assets/img/Logo.png" />
 		</div>
-		<div class="col-md-4 column-3">
+		<div class="col-md-4 column-3 hidden-xs hidden-sm">
 			<ul class="menu-md">
 				<div class="row">
 					<div class="col-md-6 lien-3">

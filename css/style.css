@@ -358,6 +358,9 @@ body {
 
 @media (min-width: 992px) {
 
+
+/* Menu */
+
 .menu-md {
 	list-style: none;
 }
@@ -380,6 +383,27 @@ body {
 
 .menu .column-1, .menu .column-3 {
 	margin-top: 0.5%;
+}
+
+/* Section bleue */
+
+.wrapper-1 {
+	height: 105px;
+}
+
+.blue-section {
+	margin-top: -18px;
+}
+
+/* Slider */
+
+.slider {
+	padding-left: 5%;
+	margin-top: -0.5%;
+}
+
+.slider .column-1, .slider .column-2, .slider .column-3 {
+	padding-right: 3%;
 }
 
 }

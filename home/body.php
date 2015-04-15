@@ -2,13 +2,13 @@
 
 	<div class="wrapper-1">
 		 <div class="blue-section">
-		 	<h1 class="hidden-sm">Drapeaux, pavillons, mâts<br>Articles pour mairies et collectivités</h1>
+		 	<h1 class="hidden-sm hidden-md">Drapeaux, pavillons, mâts<br>Articles pour mairies et collectivités</h1>
 		 	<h1 class="hidden-xs">Nouveaux produits</h1>
 		 </div>
 	</div>
 
 	<div class="wrapper-2">
-		 <div class="white-section hidden-sm">
+		 <div class="white-section hidden-sm hidden-md">
 		 	<h2>Contact</h2>
 		 	<h3><strong>COUTARD PAVOISEMENT</strong><br>
 		 		ROUTE DE SAINT-LO<br>
