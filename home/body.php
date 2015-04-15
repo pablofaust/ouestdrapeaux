@@ -8,7 +8,7 @@
 	</div>
 
 	<div class="wrapper-2">
-		 <div class="white-section">
+		 <div class="white-section hidden-sm">
 		 	<h2>Contact</h2>
 		 	<h3><strong>COUTARD PAVOISEMENT</strong><br>
 		 		ROUTE DE SAINT-LO<br>
@@ -17,6 +17,25 @@
 		 		TEL : 2 31 92 85 24<br>
 		 		FAX : 2 31 92 99 22</h3>
 		 </div>
+
+		<div class="row slider">
+			<div class="col-sm-4 column-1">
+				<div class="img">
+					<img src="home/img/produit1.jpg" />
+				</div>
+			</div>
+			<div class="col-sm-4 column-2">
+				<div class="img">
+					<img src="home/img/produit2.jpg" />
+				</div>
+			</div>
+			<div class="col-sm-4 column-3">
+				<div class="img">
+					<img src="home/img/produit3.jpg" />
+				</div>
+			</div>
+		</div>
+
 	</div>
 
 	<div class="wrapper-3">
