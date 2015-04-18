@@ -211,20 +211,27 @@ body {
 	left: inherit;
 	border: none;
 	border-radius: 0;
-	margin-top: 20px;
+	margin-top: 21px;
 	margin-left: -676px;
 	-webkit-transform: rotate(-2deg);
 	box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.3);
 	-webkit-box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.3);
+	padding: 0px 20px 0px 15px;
+	left: 0;
+	right: -40px;
 }
 
 .dropdown ul li {
 	display: table-cell;
+}
+
+.dropdown-links {
 	-webkit-transform: rotate(2deg);
+	padding-left: 15px;
 }
 
 .dropdown ul li a {
-	padding: 0px 20px 0px 20px;
+	padding: 0px 10px 0px 10px;
 	line-height: 1;
 	font-family: "Montserrat";
 	font-size: 17px;

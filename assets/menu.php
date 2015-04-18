@@ -13,10 +13,12 @@
 			    <i class="fa fa-bars fa-3x"></i>	
 			  </button>
 			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Communication et Signalétique</a></li>
-			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Articles de mairie</a></li>
-			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Drapeaux, mâts et supports</a></li><br>
-			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Demande de devis</a></li>
+			  	<div class="dropdown-links">
+				    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Communication et Signalétique</a></li>
+				    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Articles de mairie</a></li>
+				    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Drapeaux, mâts et supports</a></li><br>
+				    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Demande de devis</a></li>
+			 	</div>
 			  </ul>
 			</div>
 		</div>
