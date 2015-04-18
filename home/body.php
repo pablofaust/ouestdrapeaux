@@ -39,8 +39,8 @@
 	</div>
 
 	<div class="wrapper-3">
-		 <div class="red-section">
-		 		<h4 class="hidden-md hidden-lg">Demandez un devis</h4>
+		 <div class="devis red-section">
+		 		<h4 class="button hidden-md hidden-lg">Demandez un devis</h4>
 		 	<a href="#form"><button type="button" class="btn hidden-xs hidden-sm">
 		 		<h4>Demandez un devis</h4>
 		 	</button></a>

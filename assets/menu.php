@@ -2,7 +2,7 @@
 	<div class="row">
 
 		<!-- Le logo s'affiche au centre ou à gauche selon mobile ou tablette verticale -->
-		<div class="col-xs-12 col-sm-6 column-1 visible-xs visible-sm">
+		<div class="logo col-xs-12 col-sm-6 column-1 visible-xs visible-sm">
 			<a href="#"><img src="assets/img/Logo.png" /></a>
 		</div>
 
@@ -25,26 +25,26 @@
 		<div class="col-md-4 column-1 hidden-xs hidden-sm">
 			<ul class="menu-md">
 				<div class="row">
-					<div class="col-md-6 lien-1">
+					<div class="col-md-6 link-1">
 						<li><h2><a href="#">Communication et signalétique</a></h2></li>
 					</div>
-					<div class="col-md-6 lien-2">
+					<div class="col-md-6 link-2">
 						<li><h2><a href="#">Articles de mairie</a></h2></li>
 					</div>
 				</div>
 			</ul>
 		</div>
-		<div class="col-md-4 column-2 hidden-xs hidden-sm">
+		<div class="logo col-md-4 column-2 hidden-xs hidden-sm">
 			<a href="#"><img src="assets/img/Logo.png" /></a>
 		</div>
 		<div class="col-md-4 column-3 hidden-xs hidden-sm">
 			<ul class="menu-md">
 				<div class="row">
-					<div class="col-md-6 lien-3">
+					<div class="col-md-6 link-3">
 						<li><h2><a href="#">Drapeaux, mâts et supports</a></h2></li>
 					</div>
-					<div class="col-md-6 lien-4">
-						<li><h2><a href="#">Demande de devis</a></h2></li>
+					<div class="col-md-6 link-4">
+						<li><h2><a href="#form">Demande de devis</a></h2></li>
 					</div>
 			</ul>
 		</div>

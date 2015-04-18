@@ -135,10 +135,6 @@ body {
 	-webkit-transform: rotate(-1deg);
 }
 
-.devis {
-	position: relative;
-}
-
 .form {
 	width: 100%;
 	display: inline-block;	
@@ -403,22 +399,22 @@ body {
 	margin-top: 0.5%;
 }
 
-.menu-md .lien-1 a, .menu-md .lien-2 a, .menu-md .lien-3 a {
+.menu-md .link-1 a, .menu-md .link-2 a, .menu-md .link-3 a {
 	text-decoration: none;
 	color: rgba(0, 0, 0, 0.84);
 } 
 
-.menu-md .lien-1 a:hover, .menu-md .lien-2 a:hover, .menu-md .lien-3 a:hover {
+.menu-md .link-1 a:hover, .menu-md .link-2 a:hover, .menu-md .link-3 a:hover {
 	text-decoration: none;
 	color: #42A5F5;
 } 
 
-.menu-md .lien-4 a {
+.menu-md .link-4 a {
 	text-decoration: none;
 	color: #EF5350;
 }
 
-.menu-md .lien-4 a:hover {
+.menu-md .link-4 a:hover {
 	text-decoration: none;
 	color: #42A5F5;
 }
@@ -455,18 +451,20 @@ body {
 	height: 123px;
 }
 
-.red-section button, .red-section button:focus, .red-section button:active, .red-section button:visited{
+.red-section button, .red-section button:active, .red-section button:visited{
 	-webkit-transform: rotate(-1deg);
 	border: solid 2px #fff;
 	background-color: #EF5350;
 	box-shadow: 0px 2px 2px 0px #BD403E;
+	outline: none;
 }
 
-.red-section button:hover {
+.red-section button:hover, .red-section button:focus {
 	-webkit-transform: rotate(-1deg);
 	border: solid 2px #BD403E;
 	background-color: #BD403E;
 	box-shadow: 0px 2px 2px 0px #BD403E;
+	outline: none;
 }
 
 .red-section h4 {
