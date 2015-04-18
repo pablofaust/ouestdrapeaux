@@ -8,7 +8,7 @@ body {
 
 .wrapper-1 {
 	position: relative;
-	height: 100px;
+	height: 102px;
 	overflow-x: hidden;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 .wrapper-3 {
 	position: relative;
-	height: 127px;
+	height: 110px;
 	overflow-x: hidden;
 }
 
@@ -239,7 +239,11 @@ body {
 	padding-bottom: 23px;
 }
 
-*/
+.dropdown ul li:last-child a {
+	color: #EF5350;
+}
+
+
 /* Section bleue */
 
 .wrapper-1 {
@@ -262,6 +266,10 @@ body {
 }
 
 /* Slider */
+
+.wrapper-2 {
+	height: 315px;
+}
 
 .slider {
 	padding-left: 4%;
@@ -303,7 +311,17 @@ body {
 	vertical-align: middle;	
 }
 
+/* Section rouge */
+
+.wrapper-3 {
+ height: 125px;
+}
+
 /* Formulaire */
+
+.form {
+	margin-top: 670px;
+}
 
 .form .column-1 {
 	padding-top: 30px;
@@ -385,6 +403,26 @@ body {
 	margin-top: 0.5%;
 }
 
+.menu-md .lien-1 a, .menu-md .lien-2 a, .menu-md .lien-3 a {
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.84);
+} 
+
+.menu-md .lien-1 a:hover, .menu-md .lien-2 a:hover, .menu-md .lien-3 a:hover {
+	text-decoration: none;
+	color: #42A5F5;
+} 
+
+.menu-md .lien-4 a {
+	text-decoration: none;
+	color: #EF5350;
+}
+
+.menu-md .lien-4 a:hover {
+	text-decoration: none;
+	color: #42A5F5;
+}
+
 /* Section bleue */
 
 .wrapper-1 {
@@ -439,6 +477,59 @@ body {
 
 .form {
 	padding-top: 20px;
+}
+
+.form button:hover {
+	color: #fff;
+	background-color: #EF5350;
+}
+
+}
+
+/* Version large */
+
+@media (min-width: 1200px) {
+
+/* Menu */
+
+.menu-md h2 {
+	font-size: 16px;
+}
+
+/* Section bleue */
+
+.wrapper-2 {
+	height: 330px;
+}
+
+.blue-section {
+	margin-top: -22px;
+}
+
+/* Section rouge */
+
+.red-section {
+	margin-top: 11px;
+	height: 155px;
+}
+
+.red-section button {
+	margin-top: 10px;
+}
+
+.red-section h5 {
+	margin-top: 30px;
+}
+
+.wrapper-3 {
+	height: 180px;
+}
+
+/* Formulaire */
+
+.form {
+	padding-top: 90px;
+	padding-bottom: 40px;
 }
 
 }
