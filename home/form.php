@@ -36,12 +36,11 @@
   <div class="col-sm-5 column-2">
      <div class="contact hidden-xs">
       <h2>Contact</h2>
-      <h3><strong>COUTARD PAVOISEMENT</strong><br>
-        ROUTE DE SAINT-LO<br>
-        14400 BAYEUX<br>
+      <h3><strong>OUEST DRAPEAUX</strong><br>
+        16 rue de l'Avenir<br>
+        14650 CARPIQUET<br>
         <a href="mailto:coutard.pavoisement@hotmail.fr">coutard.pavoisement@hotmail.fr</a><br>
-        TEL : 2 31 92 85 24<br>
-        FAX : 2 31 92 99 22</h3>
+        FAX : 08 26 99 52 96</h3>
      </div>
   </div>
 
