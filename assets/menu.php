@@ -3,7 +3,7 @@
 
 		<!-- Le logo s'affiche au centre ou à gauche selon mobile ou tablette verticale -->
 		<div class="logo col-xs-12 col-sm-6 column-1 visible-xs visible-sm">
-			<a href="#"><img src="assets/img/Logo.png" /></a>
+			<img src="assets/img/Logo.png" />
 		</div>
 
 		<!-- Apparition d'un toggle en version tablette verticale -->
@@ -35,7 +35,7 @@
 			</ul>
 		</div>
 		<div class="logo col-md-4 column-2 hidden-xs hidden-sm">
-			<a href="#"><img src="assets/img/Logo.png" /></a>
+			<img src="assets/img/Logo.png" />
 		</div>
 		<div class="col-md-4 column-3 hidden-xs hidden-sm">
 			<ul class="menu-md">

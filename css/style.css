@@ -43,6 +43,10 @@ body {
 	width: 250px;
 }
 
+.logo {
+	cursor: pointer;
+}
+
 /* Corps */
 
 .body {
