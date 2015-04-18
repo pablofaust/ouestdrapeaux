@@ -39,7 +39,7 @@
       <h3><strong>OUEST DRAPEAUX</strong><br>
         16 rue de l'Avenir<br>
         14650 CARPIQUET<br>
-        <a href="mailto:coutard.pavoisement@hotmail.fr">coutard.pavoisement@hotmail.fr</a><br>
+        <a href="mailto:ouestdrapeaux@hotmail.com">ouestdrapeaux@hotmail.com</a><br>
         FAX : 08 26 99 52 96</h3>
      </div>
   </div>
