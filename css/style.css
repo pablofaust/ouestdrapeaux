@@ -433,7 +433,7 @@ body {
 
 }
 
-.presentation .links-sm-vertical .col-sm-4 {
+.presentation .links-sm-vertical .col-sm-4, .presentation .links-sm-vertical .col-sm-5 {
 	margin-top: 20px;
 }
 
@@ -592,9 +592,8 @@ body {
 	margin-top: 220px;
 }
 
-.presentation .links-md-vertical .col-md-3 {
+.presentation .links-md-vertical .col-md-3, .presentation .links-md-vertical .col-md-4 {
 	margin-top: 10px;
-	margin-left: 10px;
 }
 
 }

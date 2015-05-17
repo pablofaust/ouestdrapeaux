@@ -2,7 +2,7 @@
 
 	<div class="row">
 
-		<div class="col-sm-10 col-sm-offset-1 column-1">
+		<div class="col-sm-10 col-sm-offset-1 col-md-7 column-1">
 			<h2>Articles de mairie</h2><br>
 
 			<h3>Vous trouverez ici tous les articles dont vous pouvez avoir besoin pour l’organisation
@@ -17,27 +17,51 @@
 
 		</div> 
 
+	<!-- tablette horizontale -->
+
+		<div class="links-md-vertical hidden-sm">
+
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Protocole</h4>
+				</button>
+			</div>
+
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Elections & Voirie</h4>
+				</button>
+			</div>
+
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Aménagement</h4>
+				</button>
+			</div>
+
+		</div>
+
 	</div>
 
 	<!-- tablette verticale -->
 
 	<div class="row links-sm-vertical hidden-md">
 
-		<div class="col-sm-4 col-sm-offset-6">
+		<div class="col-sm-5 col-sm-offset-6">
 			<button type="button" class="btn">
-				<h4>Structures</h4>
+				<h4>Protocole</h4>
 			</button>
 		</div>
 
-		<div class="col-sm-4 col-sm-offset-6">
+		<div class="col-sm-5 col-sm-offset-6">
 			<button type="button" class="btn">
-				<h4>Porte-bannières</h4>
+				<h4>Elections & Voirie</h4>
 			</button>
 		</div>
 
-		<div class="col-sm-4 col-sm-offset-6">
+		<div class="col-sm-5 col-sm-offset-6">
 			<button type="button" class="btn">
-				<h4>Murs d'images</h4>
+				<h4>Aménagement</h4>
 			</button>
 		</div>
 	</div>
