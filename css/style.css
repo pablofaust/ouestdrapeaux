@@ -409,10 +409,10 @@ body {
 	font-family: 'Montserrat';
 	font-weight: 400;
 	text-align: justify;
-	line-height: 1.5;
+	line-height: 1.6;
 	margin: 0;
 	color: #42A5F5;
-	font-size: 18px;
+	font-size: 16px;
 	letter-spacing: 1px;
 }
 
@@ -435,7 +435,6 @@ body {
 
 .presentation .links-sm-vertical .col-sm-4 {
 	margin-top: 20px;
-}
 }
 
 }
@@ -576,9 +575,27 @@ body {
 	margin-top: 10px;
 }
 
-/*.links-md-horizontal .col-md-3, .links-md-horizontal .col-md-4 {
-	margin-left: 30px;
-}*/
+.presentation .links-md-vertical button {
+	width: 100%;
+	text-align: center;
+	width: 100%;
+	background-color: #fff;
+	border: solid 2px #EF5350;
+	text-transform: uppercase;
+	font-family: 'Montserrat';
+	letter-spacing: 1px;
+	color: #EF5350;
+	border-radius: 0;
+}
+
+.links-md-vertical {
+	margin-top: 220px;
+}
+
+.presentation .links-md-vertical .col-md-3 {
+	margin-top: 10px;
+	margin-left: 10px;
+}
 
 }
 
