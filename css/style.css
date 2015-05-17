@@ -579,6 +579,14 @@ body {
 	margin-left: 40px;
 }
 
+.links-md-horizontal {
+	margin-top: 20px;
+}
+
+.links-md-horizontal .col-md-3 {
+	margin-left: 30px;
+}
+
 }
 
 /* Version large */

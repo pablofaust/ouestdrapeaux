@@ -19,9 +19,9 @@
 
 	</div>
 
-	<div class="links hidden-md">
-
 		<!-- Version iPad verticale -->
+
+	<div class="links hidden-md">
 
 		<div class="row">
 
@@ -47,20 +47,30 @@
 
 		</div>
 
+	</div>
+
 		<!-- Version iPad horizontale -->
 
-			<div class="col-md-3 col-md-offset-1 link-1">
+		<div class="links-md-horizontal">
+
+			<div class="col-md-2 col-md-offset-2 link-1">
 
 				<h4>Protocole</h4>
 
 			</div>
 
-			<div class="col-md-3 col-md-offset-1 link-1">
+			<div class="col-md-3 link-2">
 
 				<h4>Elections & Voirie</h4>
 
 			</div>
 
-	</div>
+			<div class="col-md-3 link-3">
+
+				<h4>Aménagements</h4>
+
+			</div>`
+
+		</div>
 
 </div>
