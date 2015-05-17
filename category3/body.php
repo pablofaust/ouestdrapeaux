@@ -1,6 +1,6 @@
 <div class="container-fluid presentation">
 
-	<div class="row">
+	<div class="row category-3">
 
 		<div class="col-sm-10 col-sm-offset-1 col-md-7 column-1">
 			<h2>Drapeaux, mâts et supports</h2><br>
@@ -22,19 +22,31 @@
 
 			<div class="col-md-4">
 				<button type="button" class="btn">
-				<h4>Protocole</h4>
+				<h4>Mâts</h4>
 				</button>
 			</div>
 
 			<div class="col-md-4">
 				<button type="button" class="btn">
-				<h4>Elections & Voirie</h4>
+				<h4>Voiles Plumes</h4>
 				</button>
 			</div>
 
 			<div class="col-md-4">
 				<button type="button" class="btn">
-				<h4>Aménagement</h4>
+				<h4>Drapeaux Association</h4>
+				</button>
+			</div>
+
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Drapeaux Loisirs</h4>
+				</button>
+			</div>
+
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Drapeaux Institutionnels</h4>
 				</button>
 			</div>
 
@@ -80,7 +92,7 @@
 
 		<div class="col-sm-5 col-sm-offset-6">
 			<button type="button" class="btn">
-				<h4>Protocole</h4>
+				<h4>Drapeaux Instutionnels</h4>
 			</button>
 		</div>
 
