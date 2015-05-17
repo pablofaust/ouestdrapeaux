@@ -247,9 +247,10 @@ body {
 }
 
 .dropdown ul li:last-child a {
-	color: #EF5350;
+	color: #42A5F5;
 }
 
+/* ACCUEIL */
 
 /* Section bleue */
 
@@ -377,6 +378,73 @@ body {
 	color: #42A5F5;
 }
 
+/* CATEGORIES */
+
+.presentation {
+	position: absolute;
+  	margin-top: 185px;
+  	z-index: 900;
+  	width: 100%;
+}
+
+.presentation .column-1 {
+	padding: 40px;
+	border: solid 2px #42A5F5;
+}
+
+.presentation h2 {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	text-align: justify;
+	line-height: 1.5;
+	margin: 0;
+	color: #42A5F5;
+	text-transform: uppercase;
+	border-bottom: solid 2px #42A5F5;
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+.presentation h3 {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	text-align: justify;
+	line-height: 1.5;
+	margin: 0;
+	color: #42A5F5;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+.presentation h3 strong {
+	letter-spacing: 2px;
+}	
+
+.presentation .link-1, .presentation .link-2, .presentation .link-3, .presentation .link-4, .presentation .link-5 {
+	display: block;
+	padding: 10px;
+	border: solid 2px #EF5350;
+	margin-top: 20px;
+}
+
+.presentation .link-1-inline, .presentation .link-2-inline,.presentation .link-3-inline, .presentation .link-4-inline  {
+	display: inline-block;
+	padding: 10px;
+	border: solid 2px #EF5350;
+	margin-top: 20px;
+}
+
+
+.presentation h4 {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	text-align: center;
+	margin: 0;
+	text-transform: uppercase;
+	color: #EF5350;
+	letter-spacing: 2px;
+}
+
 }
 
 /* Version tablette horizontale */
@@ -422,12 +490,12 @@ body {
 
 .menu-md .link-4 a {
 	text-decoration: none;
-	color: #EF5350;
+	color: #42A5F5;
 }
 
 .menu-md .link-4 a:hover {
 	text-decoration: none;
-	color: #42A5F5;
+	color: #EF5350;
 }
 
 /* Section bleue */
@@ -472,7 +540,7 @@ body {
 
 .red-section button:hover, .red-section button:focus {
 	-webkit-transform: rotate(-1deg);
-	border: solid 2px #BD403E;
+	border: solid 2px #fff;
 	background-color: #BD403E;
 	box-shadow: 0px 2px 2px 0px #BD403E;
 	outline: none;
@@ -491,6 +559,21 @@ body {
 .form button:hover {
 	color: #fff;
 	background-color: #EF5350;
+}
+
+/* CATEGORIES */
+
+.presentation h3 {
+	font-size: 18px;
+}
+
+.presentation .links-md-1 {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+.presentation .links-md-1 .col-md-3, .presentation .links-md-1 .col-md-4 {
+	margin-left: 40px;
 }
 
 }

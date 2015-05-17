@@ -6,5 +6,5 @@
   <link type="text/css" rel="stylesheet" href="<?php echo $url ?>css/bootstrap.css" />
   <link type="text/css" rel="stylesheet" href="<?php echo $url ?>css/style.css" />
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <title>Ouest Drapeaux</title>
+  <title>Tinderline</title>
 </head>
