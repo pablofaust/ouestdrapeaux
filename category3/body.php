@@ -2,7 +2,7 @@
 
 	<div class="row category-3">
 
-		<div class="col-sm-10 col-sm-offset-1 col-md-7 column-1">
+		<div class="col-sm-10 col-sm-offset-1 col-md-7 col-lg-6 column-1">
 			<h2>Drapeaux, mâts et supports</h2><br>
 
 			<h3>Selon vos besoins, nous pouvons vous proposer plusieurs types de drapeaux :
@@ -56,7 +56,7 @@
 
 	<!-- tablette verticale -->
 
-	<div class="row links-sm-vertical hidden-md">
+	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-1">
 			<button type="button" class="btn">
@@ -72,7 +72,7 @@
 
 	</div>
 
-	<div class="row links-sm-vertical hidden-md">
+	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-1">
 			<button type="button" class="btn">
@@ -88,7 +88,7 @@
 
 	</div>
 
-	<div class="row links-sm-vertical hidden-md">
+	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-6">
 			<button type="button" class="btn">

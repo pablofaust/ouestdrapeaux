@@ -648,6 +648,20 @@ body {
 	padding-bottom: 40px;
 }
 
+/* CATEGORIES */
+
+.links-md-vertical {
+	margin-top: 170px;
+}
+
+.links-md-vertical .col-md-3 {
+	margin-left: 20px;
+}
+
+.category-3 .links-md-vertical {
+	margin-top: 20px;
+}
+
 }
 
 

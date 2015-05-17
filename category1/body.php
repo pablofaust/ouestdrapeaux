@@ -15,7 +15,7 @@
 
 		</div> 
 
-	<!-- tablette horizontale -->
+	<!-- tablette horizontale + écran large -->
 
 		<div class="links-md-vertical hidden-sm">
 
@@ -43,7 +43,7 @@
 
 	<!-- tablette verticale -->
 
-	<div class="row links-sm-vertical hidden-md">
+	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-4 col-sm-offset-6">
 

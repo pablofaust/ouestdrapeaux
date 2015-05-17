@@ -45,7 +45,7 @@
 
 	<!-- tablette verticale -->
 
-	<div class="row links-sm-vertical hidden-md">
+	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-6">
 			<button type="button" class="btn">
