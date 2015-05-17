@@ -49,7 +49,7 @@
 
 		<!-- Version iPad horizontale -->
 
-		<div class="row links-md-1">
+		<div class="row links-md-1 hidden-sm">
 
 			<div class="col-md-3 col-md-offset-2 link-1">
 
