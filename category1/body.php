@@ -17,61 +17,36 @@
 
 		</div> 
 
-	
-
-		<!-- Version Ipad verticale -->
-	<div class="links hidden-md">
-		
-		<div class="row">
-
-			<div class="col-sm-4 col-sm-offset-6 link-1">
-				<h4>Structures</h4>
-			</div>
-
-		</div>	
-
-		<div class="row hidden-md">
-
-			<div class="col-sm-4 col-sm-offset-6 link-2">
-				<h4>Porte-bannières</h4>
-			</div>		
-
-		</div>
-
-		<div class="row hidden-md">
-
-			<div class="col-sm-4 col-sm-offset-6 link-3">
-				<h4>Murs d'images</h4>
-			</div>		
-
-		</div>
-
 	</div>
 
-		<!-- Version iPad horizontale -->
+	<div class="row links-sm-vertical hidden-md">
 
-		<div class="links-md-1 hidden-sm">
+		<div class="col-sm-4 col-sm-offset-6">
 
-			<div class="col-md-3 link-1">
-
+			<button type="button" class="btn">
 				<h4>Structures</h4>
+			</button>
+		</div>
 
-			</div>
+		<div class="col-sm-4 col-sm-offset-6">
 
-			<div class="col-md-3 link-2">
-
+			<button type="button" class="btn">
 				<h4>Porte-bannières</h4>
+			</button>
 
-			</div>
+		</div>
 
-			<div class="col-md-3 link-3">
+		<div class="col-sm-4 col-sm-offset-6">
 
+			<button type="button" class="btn">
 				<h4>Murs d'images</h4>
-
-			</div>
+			</button>
 
 		</div>
 
 	</div>
 
 </div>
+
+	
+

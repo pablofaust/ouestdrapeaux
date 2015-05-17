@@ -53,19 +53,19 @@
 
 		<div class="links-md-horizontal">
 
-			<div class="col-md-2 col-md-offset-2 link-1">
+			<div class="col-md-3 col-md-offset-3 link-1">
 
 				<h4>Protocole</h4>
 
 			</div>
 
-			<div class="col-md-3 link-2">
+			<div class="col-md-4 link-2">
 
 				<h4>Elections & Voirie</h4>
 
 			</div>
 
-			<div class="col-md-3 link-3">
+			<div class="col-md-4 col-md-offset-6 link-3">
 
 				<h4>Aménagements</h4>
 

@@ -418,31 +418,24 @@ body {
 
 .presentation h3 strong {
 	letter-spacing: 2px;
-}	
-
-.presentation .link-1, .presentation .link-2, .presentation .link-3, .presentation .link-4, .presentation .link-5 {
-	display: block;
-	padding: 10px;
-	border: solid 2px #EF5350;
-	margin-top: 20px;
 }
 
-.presentation .link-1-inline, .presentation .link-2-inline,.presentation .link-3-inline, .presentation .link-4-inline  {
-	display: inline-block;
-	padding: 10px;
-	border: solid 2px #EF5350;
-	margin-top: 20px;
-}
-
-
-.presentation h4 {
-	font-family: 'Montserrat';
-	font-weight: 400;
+.presentation .links-sm-vertical button {
 	text-align: center;
-	margin: 0;
+	width: 100%;
+	background-color: #fff;
+	border: solid 2px #EF5350;
 	text-transform: uppercase;
+	font-family: 'Montserrat';
+	letter-spacing: 1px;
 	color: #EF5350;
-	letter-spacing: 2px;
+	border-radius: 0;
+
+}
+
+.presentation .links-sm-vertical .col-sm-4 {
+	margin-top: 20px;
+}
 }
 
 }
@@ -580,12 +573,12 @@ body {
 }
 
 .links-md-horizontal {
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
-.links-md-horizontal .col-md-3 {
+/*.links-md-horizontal .col-md-3, .links-md-horizontal .col-md-4 {
 	margin-left: 30px;
-}
+}*/
 
 }
 
