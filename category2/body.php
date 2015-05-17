@@ -19,58 +19,27 @@
 
 	</div>
 
-		<!-- Version iPad verticale -->
+	<!-- tablette verticale -->
 
-	<div class="links hidden-md">
+	<div class="row links-sm-vertical hidden-md">
 
-		<div class="row">
-
-			<div class="col-sm-4 col-sm-offset-6 link-1">
-				<h4>Protocole</h4>
-			</div>
-
-		</div>	
-
-		<div class="row hidden-md">
-
-			<div class="col-sm-4 col-sm-offset-6 link-2">
-				<h4>Elections & Voirie</h4>
-			</div>		
-
+		<div class="col-sm-4 col-sm-offset-6">
+			<button type="button" class="btn">
+				<h4>Structures</h4>
+			</button>
 		</div>
 
-		<div class="row hidden-md">
-
-			<div class="col-sm-4 col-sm-offset-6 link-3">
-				<h4>Aménagements</h4>
-			</div>		
-
+		<div class="col-sm-4 col-sm-offset-6">
+			<button type="button" class="btn">
+				<h4>Porte-bannières</h4>
+			</button>
 		</div>
 
+		<div class="col-sm-4 col-sm-offset-6">
+			<button type="button" class="btn">
+				<h4>Murs d'images</h4>
+			</button>
+		</div>
 	</div>
-
-		<!-- Version iPad horizontale -->
-
-		<div class="links-md-horizontal">
-
-			<div class="col-md-3 col-md-offset-3 link-1">
-
-				<h4>Protocole</h4>
-
-			</div>
-
-			<div class="col-md-4 link-2">
-
-				<h4>Elections & Voirie</h4>
-
-			</div>
-
-			<div class="col-md-4 col-md-offset-6 link-3">
-
-				<h4>Aménagements</h4>
-
-			</div>`
-
-		</div>
 
 </div>

@@ -17,7 +17,7 @@
 
 	<!-- tablette horizontale -->
 
-		<div class="links-md-vertical">
+		<div class="links-md-vertical hidden-sm">
 
 			<div class="col-md-3">
 				<button type="button" class="btn">
@@ -38,6 +38,8 @@
 			</div>
 
 		</div>
+
+	</div>
 
 	<!-- tablette verticale -->
 
