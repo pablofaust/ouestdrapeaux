@@ -2,7 +2,7 @@
 
 	<div class="row">
 
-		<div class="col-sm-10 col-sm-offset-1 column-1">
+		<div class="col-sm-10 col-sm-offset-1 col-md-7 column-1">
 			<h2>Drapeaux, mâts et supports</h2><br>
 
 			<h3>Selon vos besoins, nous pouvons vous proposer plusieurs types de drapeaux :
@@ -16,41 +16,73 @@
 
 		</div> 
 
-	</div>
+	<!-- tablette horizontale -->
 
-	<div class="links">
+		<div class="links-md-vertical hidden-sm">
 
-		<div class="row">
-
-			<div class="col-sm-4 col-sm-offset-2 link-1-inline">
-				<h4>Mâts</h4>
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Protocole</h4>
+				</button>
 			</div>
 
-			<div class="col-sm-4 col-sm-offset-1 link-2-inline">
-				<h4>Voiles plumes</h4>
-			</div>	
-		</div>	
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Elections & Voirie</h4>
+				</button>
+			</div>
 
-		<div class="row">
-
-			<div class="col-sm-4 col-sm-offset-2 link-3-inline">
-				<h4>Drapeaux institutionnels</h4>
-			</div>		
-
-			<div class="col-sm-4 col-sm-offset-1 link-4-inline">
-				<h4>Drapeaux associations</h4>
-			</div>		
-
-		</div>
-
-		<div class="row">
-
-			<div class="col-sm-4 col-sm-offset-7 link-5">
-				<h4>Drapeaux loisirs</h4>
-			</div>		
+			<div class="col-md-4">
+				<button type="button" class="btn">
+				<h4>Aménagement</h4>
+				</button>
+			</div>
 
 		</div>
 
 	</div>
 
+	<!-- tablette verticale -->
+
+	<div class="row links-sm-vertical hidden-md">
+
+		<div class="col-sm-5 col-sm-offset-1">
+			<button type="button" class="btn">
+				<h4>Mâts</h4>
+			</button>
+		</div>
+
+		<div class="col-sm-5">
+			<button type="button" class="btn">
+				<h4>Voiles Plumes</h4>
+			</button>
+		</div>
+
+	</div>
+
+	<div class="row links-sm-vertical hidden-md">
+
+		<div class="col-sm-5 col-sm-offset-1">
+			<button type="button" class="btn">
+				<h4>Drapeaux Association</h4>
+			</button>
+		</div>
+
+		<div class="col-sm-5">
+			<button type="button" class="btn">
+				<h4>Drapeaux Loisirs</h4>
+			</button>
+		</div>
+
+	</div>
+
+	<div class="row links-sm-vertical hidden-md">
+
+		<div class="col-sm-5 col-sm-offset-6">
+			<button type="button" class="btn">
+				<h4>Protocole</h4>
+			</button>
+		</div>
+
 </div>
+
