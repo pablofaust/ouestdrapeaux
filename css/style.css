@@ -563,16 +563,20 @@ body {
 
 /* CATEGORIES */
 
+.presentation h2 {
+	font-size: 28px;
+}
+
 .presentation h3 {
 	font-size: 18px;
 }
 
-.presentation .links-md-1 {
-	margin-left: 30px;
-	margin-top: 10px;
+
+.links-md-1 {
+	margin-top: 350px;
 }
 
-.presentation .links-md-1 .col-md-3, .presentation .links-md-1 .col-md-4 {
+.links-md-1 .col-md-3 {
 	margin-left: 40px;
 }
 

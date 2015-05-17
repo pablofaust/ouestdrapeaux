@@ -19,11 +19,11 @@
 
 	</div>
 
-	<div class="links">
+	<div class="links hidden-md">
 
 		<!-- Version iPad verticale -->
 
-		<div class="row hidden-md">
+		<div class="row">
 
 			<div class="col-sm-4 col-sm-offset-6 link-1">
 				<h4>Protocole</h4>
@@ -49,9 +49,7 @@
 
 		<!-- Version iPad horizontale -->
 
-		<div class="row links-2">
-
-			<div class="col-md-3 col-md-offset-3 link-1">
+			<div class="col-md-3 col-md-offset-1 link-1">
 
 				<h4>Protocole</h4>
 
@@ -62,8 +60,6 @@
 				<h4>Elections & Voirie</h4>
 
 			</div>
-
-		</div>
 
 	</div>
 

@@ -2,7 +2,7 @@
 
 	<div class="row">
 
-		<div class="col-sm-10 col-sm-offset-1 column-1">
+		<div class="col-sm-10 col-sm-offset-1 col-md-7 column-1">
 			<h2>Communication & Signalétique</h2><br>
 
 			<h3>Vous trouverez ici tous les articles dont vous pouvez avoir besoin pour l’organisation
@@ -17,13 +17,12 @@
 
 		</div> 
 
-	</div>
-
-	<div class="links">
+	
 
 		<!-- Version Ipad verticale -->
-
-		<div class="row hidden-md">
+	<div class="links hidden-md">
+		
+		<div class="row">
 
 			<div class="col-sm-4 col-sm-offset-6 link-1">
 				<h4>Structures</h4>
@@ -47,11 +46,13 @@
 
 		</div>
 
+	</div>
+
 		<!-- Version iPad horizontale -->
 
-		<div class="row links-md-1 hidden-sm">
+		<div class="links-md-1 hidden-sm">
 
-			<div class="col-md-3 col-md-offset-2 link-1">
+			<div class="col-md-3 link-1">
 
 				<h4>Structures</h4>
 
