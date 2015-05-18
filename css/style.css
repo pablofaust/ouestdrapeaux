@@ -437,6 +437,89 @@ body {
 	margin-top: 20px;
 }
 
+/* PRODUITS */
+
+.products {
+	z-index: 900;
+	margin-top: 125px;
+	position: absolute;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+.product-item {
+	margin-top: 25px;
+	display: inline-flex;
+}
+
+.product-img {
+	position: relative;
+	width: 250px;
+	height: 250px;
+	padding: 25px;
+	border: solid 4px #42A5F5;
+	display: inline-block;
+	text-align: center;
+}
+
+.product-img img {
+	min-height: inherit;
+	min-width: inherit;
+	max-width: 100%;
+	max-height: 100%;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.product-description {
+	position: relative;
+	display: inline-block;
+	width: 440px;
+	height: 250px;
+	border: solid 4px #42A5F5;
+	margin-left: 25px;
+	padding: 25px;
+}
+
+.product-description h2 {
+	font-family: 'Montserrat';
+	color: #42A5F5;
+	margin-top: 0;
+	width: 100%;
+	border-bottom: solid 4px #42A5F5;
+	padding-bottom: 18px;
+	text-transform: uppercase;
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
+.product-description p {
+	font-family: 'Montserrat';
+	color: #42A5F5;
+	text-align: justify;
+	font-weight: 400;
+}
+
+.contact-input {
+	text-align: right;
+	margin-right: -15px;
+	margin-top: 20px;
+}
+
+.contact-input button {
+	font-family: 'Montserrat';
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #EF5350;
+	background-color: #fff;
+	border: 2px solid #EF5350;
+	border-radius: 0;
+}
+
+.contact-input h4 {
+	font-size: 16px;
 }
 
 /* Version tablette horizontale */
