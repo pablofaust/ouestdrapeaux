@@ -59,15 +59,15 @@
 	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-1">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Mâts</h4>
-			</button>
+			</button></a>
 		</div>
 
 		<div class="col-sm-5">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Voiles Plumes</h4>
-			</button>
+			</button></a>
 		</div>
 
 	</div>
@@ -75,15 +75,15 @@
 	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-1">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Drapeaux Association</h4>
-			</button>
+			</button></a>
 		</div>
 
 		<div class="col-sm-5">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Drapeaux Loisirs</h4>
-			</button>
+			</button></a>
 		</div>
 
 	</div>
@@ -91,9 +91,9 @@
 	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-6">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Drapeaux Instutionnels</h4>
-			</button>
+			</button></a>
 		</div>
 
 </div>

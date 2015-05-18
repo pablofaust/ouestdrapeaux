@@ -20,21 +20,21 @@
 		<div class="links-md-vertical hidden-sm">
 
 			<div class="col-md-3">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Structures</h4>
-				</button>
+				</button></a>
 			</div>
 
 			<div class="col-md-3">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Porte-bannières</h4>
-				</button>
+				</button></a>
 			</div>
 
 			<div class="col-md-3">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Murs d'images</h4>
-				</button>
+				</button></a>
 			</div>
 
 		</div>
@@ -47,24 +47,25 @@
 
 		<div class="col-sm-4 col-sm-offset-6">
 
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Structures</h4>
-			</button>
+			</button></a>
+
 		</div>
 
 		<div class="col-sm-4 col-sm-offset-6">
 
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Porte-bannières</h4>
-			</button>
+			</button></a>
 
 		</div>
 
 		<div class="col-sm-4 col-sm-offset-6">
 
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Murs d'images</h4>
-			</button>
+			</button></a>
 
 		</div>
 

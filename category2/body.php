@@ -48,21 +48,21 @@
 	<div class="row links-sm-vertical hidden-md hidden-lg">
 
 		<div class="col-sm-5 col-sm-offset-6">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Protocole</h4>
-			</button>
+			</button></a>
 		</div>
 
 		<div class="col-sm-5 col-sm-offset-6">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Elections & Voirie</h4>
-			</button>
+			</button></a>
 		</div>
 
 		<div class="col-sm-5 col-sm-offset-6">
-			<button type="button" class="btn">
+			<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
 				<h4>Aménagement</h4>
-			</button>
+			</button></a>
 		</div>
 	</div>
 
