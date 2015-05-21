@@ -1,6 +1,8 @@
 <div class="container-fluid products">
 
-	<div class="product-item">
+	<div class="row product">
+
+		<div class="col-sm-5">
 
 			<div class="product-img">
 
@@ -8,28 +10,28 @@
 
 			</div>
 
+		</div>
+
+		<div class="col-sm-7">
+
 			<div class="product-description">
 
 				<h2>Lorem Ipsum</h2>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-				Nam sed porta orci. Curabitur luctus dui dui, ut vestibulum
-				dolor tristique tempus. Cras molestie consectetur ipsum,
-				eu aliquet ipsum auctor ut.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas ante nec
+				dolor dignissim blandit. Curabitur nisl risus, tempus vel semper ut, posuere quis urna</p>
 
-				<div class="contact-input">
+				<a href="#"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
 
-				<button type="button" class="btn">
-					<h4>Demander un devis</h4>
-				</button>
+			</div>
 
-				</div>
-
-			</div>	
+		</div>
 
 	</div>
 
-	<div class="product-item">
+	<div class="row product">
+
+		<div class="col-sm-5">
 
 			<div class="product-img">
 
@@ -37,28 +39,28 @@
 
 			</div>
 
+		</div>
+
+		<div class="col-sm-7">
+
 			<div class="product-description">
 
 				<h2>Lorem Ipsum</h2>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-				Nam sed porta orci. Curabitur luctus dui dui, ut vestibulum
-				dolor tristique tempus. Cras molestie consectetur ipsum,
-				eu aliquet ipsum auctor ut.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas ante nec
+				dolor dignissim blandit. Curabitur nisl risus, tempus vel semper ut, posuere quis urna</p>
 
-				<div class="contact-input">
+				<a href="#"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
 
-				<button type="button" class="btn">
-					<h4>Demander un devis</h4>
-				</button>
+			</div>
 
-				</div>
-
-			</div>	
+		</div>
 
 	</div>
 
-	<div class="product-item">
+	<div class="row product">
+
+		<div class="col-sm-5">
 
 			<div class="product-img">
 
@@ -66,24 +68,22 @@
 
 			</div>
 
+		</div>
+
+		<div class="col-sm-7">
+
 			<div class="product-description">
 
 				<h2>Lorem Ipsum</h2>
 
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-				Nam sed porta orci. Curabitur luctus dui dui, ut vestibulum
-				dolor tristique tempus. Cras molestie consectetur ipsum,
-				eu aliquet ipsum auctor ut.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas ante nec
+				dolor dignissim blandit. Curabitur nisl risus, tempus vel semper ut, posuere quis urna</p>
 
-				<div class="contact-input">
+				<a href="#"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
 
-				<button type="button" class="btn">
-					<h4>Demander un devis</h4>
-				</button>
+			</div>
 
-				</div>
-
-			</div>	
+		</div>
 
 	</div>
 
