@@ -20,17 +20,17 @@
 		<div class="row slider hidden-xs">
 			<div class="col-sm-4 column-1">
 				<div class="img">
-					<img src="home/img/produit1.jpg" />
+					<img src="<?php echo $url ?>home/img/produit1.jpg" />
 				</div>
 			</div>
 			<div class="col-sm-4 column-2">
 				<div class="img">
-					<img src="home/img/produit2.jpg" />
+					<img src="<?php echo $url ?>home/img/produit2.jpg" />
 				</div>
 			</div>
 			<div class="col-sm-4 column-3">
 				<div class="img">
-					<img src="home/img/produit3.jpg" />
+					<img src="<?php echo $url ?>home/img/produit3.jpg" />
 				</div>
 			</div>
 		</div>

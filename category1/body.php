@@ -20,19 +20,19 @@
 		<div class="links-md-vertical hidden-sm">
 
 			<div class="col-md-3">
-				<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products1/index.php"><button type="button" class="btn">
 				<h4>Structures</h4>
 				</button></a>
 			</div>
 
 			<div class="col-md-3">
-				<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products2/index.php"><button type="button" class="btn">
 				<h4>Porte-bannières</h4>
 				</button></a>
 			</div>
 
 			<div class="col-md-3">
-				<a href="<?php echo $url ?>/products/index.php"><button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products3/index.php"><button type="button" class="btn">
 				<h4>Murs d'images</h4>
 				</button></a>
 			</div>

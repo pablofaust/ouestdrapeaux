@@ -6,7 +6,7 @@
 
 			<div class="product-img">
 
-				<img src="<?php echo $url ?>home/img/produit1.jpg" />
+				<img src="<?php echo $url ?>img/produit1.jpg" />
 
 			</div>
 
@@ -21,7 +21,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas ante nec
 				dolor dignissim blandit. Curabitur nisl risus, tempus vel semper ut, posuere quis urna</p>
 
-				<a href="#"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
+				<a href="<?php echo $url ?>../../home/index.php#form"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
 
 			</div>
 
@@ -35,7 +35,7 @@
 
 			<div class="product-img">
 
-				<img src="<?php echo $url ?>home/img/produit2.jpg" />
+				<img src="<?php echo $url ?>img/produit2.jpg" />
 
 			</div>
 
@@ -50,7 +50,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas ante nec
 				dolor dignissim blandit. Curabitur nisl risus, tempus vel semper ut, posuere quis urna</p>
 
-				<a href="#"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
+				<a href="<?php echo $url ?>../../home/index.php#form"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
 
 			</div>
 
@@ -64,7 +64,7 @@
 
 			<div class="product-img">
 
-				<img src="<?php echo $url ?>home/img/produit3.jpg" />
+				<img src="<?php echo $url ?>img/produit3.jpg" />
 
 			</div>
 
@@ -79,7 +79,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas ante nec
 				dolor dignissim blandit. Curabitur nisl risus, tempus vel semper ut, posuere quis urna</p>
 
-				<a href="#"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
+				<a href="<?php echo $url ?>../../home/index.php#form"><button type="button" class="btn"><h3>Demandez un devis</h3></a>
 
 			</div>
 

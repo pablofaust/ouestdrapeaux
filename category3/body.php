@@ -21,33 +21,33 @@
 		<div class="links-md-vertical hidden-sm">
 
 			<div class="col-md-4">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products7/index.php"><button type="button" class="btn">
 				<h4>Mâts</h4>
-				</button>
+				</button></a>
 			</div>
 
 			<div class="col-md-4">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products8/index.php"><button type="button" class="btn">
 				<h4>Voiles Plumes</h4>
-				</button>
+				</button></a>
 			</div>
 
 			<div class="col-md-4">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products9/index.php"><button type="button" class="btn">
 				<h4>Drapeaux Association</h4>
-				</button>
+				</button></a>
 			</div>
 
 			<div class="col-md-4">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products10/index.php"><button type="button" class="btn">
 				<h4>Drapeaux Loisirs</h4>
-				</button>
+				</button></a>
 			</div>
 
 			<div class="col-md-4">
-				<button type="button" class="btn">
+				<a href="<?php echo $url ?>/products/products11/index.php"><button type="button" class="btn">
 				<h4>Drapeaux Institutionnels</h4>
-				</button>
+				</button></a>
 			</div>
 
 		</div>
