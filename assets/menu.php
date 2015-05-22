@@ -10,7 +10,7 @@
 		<div class="col-sm-6 column-2 hidden-xs hidden-md hidden-lg">
 			<div class="dropdown">
 			  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-			    <i class="fa fa-bars fa-3x"></i>	
+			    <i class="fa fa-bars fa-4x"></i>	
 			  </button>
 			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
 			  	<div class="dropdown-links">

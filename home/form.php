@@ -7,7 +7,7 @@
               <label for="inputname"><h5>Nom :</h5></label>
             </div>
             <div class="col-sm-9">
-              <input required type="text" placeholder="Pour savoir qui nous écrit :)" name="name" class="form-control" id="inputname" value="<?= isset($_SESSION['inputs']['name']) ? $_SESSION['inputs']['name'] : ''; ?>">
+              <input required type="text" placeholder="Pour savoir qui nous écrit !" name="name" class="form-control" id="inputname" value="<?= isset($_SESSION['inputs']['name']) ? $_SESSION['inputs']['name'] : ''; ?>">
             </div>
           </div>
           <div class="row mail">
