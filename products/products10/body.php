@@ -1,4 +1,15 @@
+<div class="container-fluid product-blue">
+
+	<div class="wrapper-1">
+		 <div class="blue-section product-title-10">
+		 	<h1>Drapeaux loisirs</h1>
+		 </div>
+	</div>
+
+</div>
+
 <div class="container-fluid products">
+
 
 	<div class="row product">
 

@@ -216,7 +216,7 @@ body {
 	-webkit-transform: rotate(-2deg);
 	box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.3);
 	-webkit-box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.3);
-	padding: 0px 20px 0px 15px;
+	padding: 0px 20px 25px 15px;
 	left: 0;
 	right: -40px;
 }
@@ -228,6 +228,7 @@ body {
 .dropdown-links {
 	-webkit-transform: rotate(2deg);
 	padding-left: 15px;
+	margin-top: 20px;
 }
 
 .dropdown ul li a {
@@ -383,7 +384,7 @@ body {
 
 .presentation {
 	position: absolute;
-  	margin-top: 185px;
+  	margin-top: 240px;
   	z-index: 900;
   	width: 100%;
 }
@@ -448,9 +449,52 @@ body {
 
 /* PRODUITS */
 
+.product-blue {
+	padding: 0;
+	width: 100%;
+	position: absolute;
+	margin-top: 125px;
+}
+
+.product-blue-1 h1 {
+	letter-spacing: 1px;
+}
+
+.product-title-1 h1 {
+	width: 130px;
+}
+
+.product-title-2 h1, .product-title-10 h1 {
+	width: 180px;
+}
+
+.product-title-3 h1, .product-title-6 h1, .product-title-8 h1  {
+	width: 150px;
+}
+
+.product-title-4 h1 {
+	width: 115px;
+}
+
+.product-title-5 h1 {
+	width: 190px;
+}
+
+.product-title-7 h1 {
+	width: 52px	;
+}
+
+.product-title-9 h1 {
+	width: 235px;
+}
+
+.product-title-11 h1 {
+	width: 275px;
+}
+
 .products {
 	position: absolute;
-	margin-top: 150px;
+	margin-top: 250px;
 	z-index: 900;
 	width: 100%;
 	padding-left: 25px;
