@@ -19,8 +19,8 @@
 
 		<div class="row slider hidden-xs">
 			<div class="col-sm-4 column-1">
-				<div class="img">
-					<img src="<?php echo $url ?>home/img/produit1.jpg" />
+				<div class="img sc-content">
+					<!-- <img src="<?php echo $url ?>home/img/produit1.jpg" /> -->
 				</div>
 			</div>
 			<div class="col-sm-4 column-2">
